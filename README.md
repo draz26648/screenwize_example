@@ -1,6 +1,27 @@
-# screenwise_demo
+# ScreenWise Demo
 
-A new Flutter project.
+A Flutter project demonstrating responsive design techniques for different screen sizes and orientations.
+
+## Features
+
+ScreenWise showcases various responsive design components:
+
+- **ResponsiveContainer**: Adapts to screen size (100% width on mobile, 80% on tablet, 60% on desktop)
+- **ResponsiveRow**: Displays items in a row that adapts to available width
+- **ResponsiveGrid**: Grid layout that adjusts columns based on screen size
+- **AdaptiveColumn**: Column that changes based on available space
+- **ResponsiveBuilder**: Custom layouts based on screen size information
+
+## Screenshots
+
+### Mobile View (Portrait)
+![Mobile View](/screenshots/mobile_view.png)
+
+### Tablet View (Portrait)
+![Tablet View](/screenshots/tablet_view.png)
+
+### Desktop View
+![Desktop View](/screenshots/desktop_view.png)
 
 ## Getting Started
 
